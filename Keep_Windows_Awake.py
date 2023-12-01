@@ -40,5 +40,6 @@ def start_keep_windows_awake():
 
 if __name__ == "__main__":
     print("=== Keep Windows Awake by Abdallah Bakri ===")
+    print("GitHub: https://github.com/AbdallahBakri/Keep-Windows-Awake")
     logging.basicConfig(level=logging.INFO)
     start_keep_windows_awake()
